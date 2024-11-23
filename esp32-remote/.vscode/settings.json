@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "functional": "cpp",
+    "fstream": "cpp",
+    "sstream": "cpp",
+    "stdexcept": "cpp",
+    "tuple": "cpp",
+    "typeinfo": "cpp"
+  }
+}
